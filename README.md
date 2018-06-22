@@ -1,4 +1,4 @@
-Swift Explorer 
+Swift Explorer:
 
 ========
 
@@ -12,9 +12,12 @@ The following new changes has been made since forking
 
 Build Instructions:
 ==================
-Clone the repo https://github.com/balaji-katika/swift-explorer 
-Build the project using 'mvn clean install'
-Invoke the executable jar file 'java -jar target/SwiftExplorer-1.0.10-SNAPSHOT-jar-with-dependencies.jar'
+A Pre-Build binary can be downloaded from <a href="https://github.com/balaji-katika/swift-explorer/tree/master/deliverables">here</a>
+<ol>
+<li>Clone the repo https://github.com/balaji-katika/swift-explorer </li>
+<li>Build the project using 'mvn clean install'</li>
+<li>Invoke the executable jar file 'java -jar target/SwiftExplorer-1.0.10-SNAPSHOT-jar-with-dependencies.jar'</li>
+  </ol>
 
 Acknowledgement:
 ===============
